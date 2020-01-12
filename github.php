@@ -14,4 +14,5 @@
 
  # STEP 5 - search and replace all the lcalhost with the vhost
  `wp search-replace 'http://two.wordpress.test/' 'http://staging.cms-a2.ayushmank.sgedu.site/test-01/' --skip-columns=guid`;
+ # can you see this comment ?
 ?>

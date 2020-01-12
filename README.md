@@ -7,3 +7,5 @@ test 2 weebhook run a small shell script.
 test 3 - git webhook with db sync in 5 steps
 
 test 4 - added github.php to .gitignore
+
+test 5 - made changes to gitignore
