@@ -14,3 +14,4 @@ test 6 - removed github.php and wp-config.php to setup gitignore
 
 test 7 - Same as test 6 but from staging server
 
+test 8 - webhook test 
