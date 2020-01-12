@@ -17,3 +17,5 @@ test 7 - Same as test 6 but from staging server
 test 8 - webhook test 
 
 test 9 - webhook test db config
+
+test 10 - webhook test with some changes to local website
