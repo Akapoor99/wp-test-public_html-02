@@ -12,3 +12,5 @@ test 5 - made changes to gitignore
 
 test 6 - removed github.php and wp-config.php to setup gitignore
 
+test 7 - Same as test 6 but from staging server
+
